@@ -4,5 +4,6 @@ Goland examples
 
 ## Table of Contents
 
-- [Generics](./topic/generics/main.go)
 - [Channels](./topic/channels/main.go)
+- [Dependency Injection](./topic/dependency-injection/main.go)
+- [Generics](./topic/generics/main.go)
